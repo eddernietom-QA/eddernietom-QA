@@ -1,4 +1,8 @@
-## Hi there 👋
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Edder Nieto Márquez 👋
+### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
+
+
+niero Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
 
 <!--
 **eddernietom-QA/eddernietom-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
