@@ -1,8 +1,8 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Edder Nieto Márquez 👋
+# Hola, mi nombre es Edder Nieto Márquez 👋
 ### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
+ ![https://eddernietom-QA](https://github.com/user-attachments/assets/bb875382-0286-4962-bc55-7b5c826234e3)
+### Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
 
-
-niero Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
 
 <!--
 **eddernietom-QA/eddernietom-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
-
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img width="1536" height="463" alt="banner" src="https://github.com/user-attachments/assets/bb875382-0286-4962-bc55-7b5c826234e3" />
 ![IMG_20260129_085855](https://github.com/user-attachments/assets/6b46e42d-8c97-4526-881c-221417504e41)
+![IMG_20260129_085855](https://github.com/user-attachments/assets/2e6ca00e-8056-40dd-8c23-07d1980618c5)
 -->
