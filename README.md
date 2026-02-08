@@ -14,6 +14,18 @@
 - 💾 Consultas básicas con **SQL**
 - 📑 Versionado de código con **Git + GitHub**
 - 📋 Creación de reportes de pruebas (JIRA, Google Sheets)
+
+ ## EXPERIENCIA PRÁCTICA EN QA
+Diseño de casos, ejecución, reporte de bugs, pruebas api.
+Herramientas utilizadas Jira, Postman
+
+##
+##  Edder Nieto Márquez
+#### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
+#### edder.nietom@gmail.com 
+#### www.linkedin.com/in/edder-nieto-marquez
+
+
 <!--
 **eddernietom-QA/eddernietom-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
