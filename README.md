@@ -1,7 +1,8 @@
 # Hola, mi nombre es Edder Nieto Márquez 👋
+ ![https://eddernietom-QA](https://github.com/user-attachments/assets/6b46e42d-8c97-4526-881c-221417504e41)
 ### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
  ![https://eddernietom-QA](https://github.com/user-attachments/assets/bb875382-0286-4962-bc55-7b5c826234e3)
-### Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
+#### Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
 
 
 <!--
