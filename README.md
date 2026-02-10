@@ -23,6 +23,12 @@
  - Documentación	Google Docs, Microsoft Office (Intermedio)
 
 ##
+## Proyectos 
+ - Proyecto automatización de pruebas  https://github.com/eddernietom-QA/Proyecto-Prueba-automatizada-Urban-Routes-
+ - 
+
+
+##
 ##  Edder Nieto Márquez
 #### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
 #### edder.nietom@gmail.com 
