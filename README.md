@@ -4,7 +4,7 @@
 ### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
  ![https://eddernietom-QA](https://github.com/user-attachments/assets/bb875382-0286-4962-bc55-7b5c826234e3)
 #### Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
-
+##
 # Habilidades técnicas
 
 - Diseño y ejecución de **casos de prueba**
@@ -28,12 +28,11 @@
  - Proyecto Pruebas funcionales a aplicación de transporte Urbano, Urban Routes. https://github.com/eddernietom-QA/Proyecto-Urban-Routes
  - Proyecto Urban Grocers https://github.com/eddernietom-QA/Proyecto-Urban-Grocers
 
-
 ##
-##  Edder Nieto Márquez
-#### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
-#### edder.nietom@gmail.com 
-#### www.linkedin.com/in/edder-nieto-marquez
+## Contactame:
+- edder.nietom@gmail.com
+- www.linkedin.com/in/edder-nieto-marquez
+- https://github.com/eddernietom-QA
 
 
 <!--
