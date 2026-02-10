@@ -14,10 +14,13 @@
 - 💾 Consultas básicas con **SQL**
 - 📑 Versionado de código con **Git + GitHub**
 - 📋 Creación de reportes de pruebas (JIRA, Google Sheets)
-
- ## EXPERIENCIA PRÁCTICA EN QA
-Diseño de casos, ejecución, reporte de bugs, pruebas api.
-Herramientas utilizadas Jira, Postman
+ ##
+ ## Tipo	Herramientas
+ - Pruebas Manuales	Google Sheets
+ - APIs	Postman, JSON 
+ - Control de versiones	Git, GitHub
+ - Comunicación	Discord
+ - Documentación	Google Docs, Microsoft Office (Intermedio)
 
 ##
 ##  Edder Nieto Márquez
