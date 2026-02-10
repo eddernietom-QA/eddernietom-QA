@@ -7,13 +7,13 @@
 
 # Habilidades técnicas
 
-- ✅ Diseño y ejecución de **casos de prueba**
-- 🐞 Identificación y reporte de **bugs** con claridad
-- 🧪 Pruebas **manuales** funcionales y no funcionales
-- 🧾 Manejo básico de **Postman** y pruebas a APIs
-- 💾 Consultas básicas con **SQL**
-- 📑 Versionado de código con **Git + GitHub**
-- 📋 Creación de reportes de pruebas (JIRA, Google Sheets)
+- Diseño y ejecución de **casos de prueba**
+- Identificación y reporte de **bugs** con claridad
+- Pruebas **manuales** funcionales y no funcionales
+- Manejo básico de **Postman** y pruebas a APIs
+- Consultas básicas con **SQL**
+- Versionado de código con **Git + GitHub**
+- Creación de reportes de pruebas (JIRA, Google Sheets)
  ##
  ## Tipo	Herramientas
  - Pruebas Manuales	Google Sheets
