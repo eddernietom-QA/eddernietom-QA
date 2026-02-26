@@ -3,7 +3,7 @@
 
 ### Ingeniero de QA junior | Ingeniero en Sistemas Computacionales
  ![https://eddernietom-QA](https://github.com/user-attachments/assets/bb875382-0286-4962-bc55-7b5c826234e3)
-#### Junior QA con formación en aseguramiento de calidad de software y base sólida en Ingeniería en Sistemas Computacionales. Experiencia en validación de sistemas, documentación técnica, análisis de requisitos y control de calidad en entornos educativos, corporativos e industriales. Profesional orientado al detalle, con pensamiento analítico, enfoque en la mejora continua y fuerte compromiso con la calidad del producto.
+#### Ingeniero en Sistemas con más de 10 años de experiencia en soporte técnico, gestión de infraestructura y control de calidad en entornos físicos, actualmente orientando mi carrera hacia el Aseguramiento de Calidad de Software como QA Junior. Mi trayectoria me ha permitido desarrollar un enfoque analítico riguroso, disciplina en la validación de procesos y atención meticulosa al detalle. Hoy aplico esas competencias en el diseño, ejecución y documentación de pruebas funcionales y no funcionales, contribuyendo a garantizar la estabilidad, confiabilidad y calidad del producto de software.
 ##
 # Habilidades técnicas
 
