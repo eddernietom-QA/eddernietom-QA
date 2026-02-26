@@ -20,7 +20,7 @@
  - APIs	Postman, JSON 
  - Control de versiones	Git, GitHub
  - Comunicación	Discord
- - Documentación	Google Docs, Microsoft Office (Intermedio)
+ - Documentación	Google Docs, Microsoft Office (Intermedio B1)
 
 ##
 ## Proyectos 
